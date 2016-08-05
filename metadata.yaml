@@ -1,0 +1,48 @@
+_repo: History-of-Tom-Jones-a-Foundling_6593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fielding, Henry
+    aliases:
+    - Gualterus, Petrus
+    - Trottplaid, John
+    - Keyber, Conny
+    - Drawcansir, Alexander, Sir
+    - Vinegar, Hercules
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
+description: '"A foundling of mysterious parentage brought up by Mr. Allworthy on
+  his country estate, Tom Jones is deeply in love with the seemingly unattainable
+  Sophia Western, the beautiful daughter of the neighboring squire--though he sometimes
+  succumbs to the charms of the local girls. When Tom is banished to make his own
+  fortune and Sophia follows him to London to escape an arranged marriage, the adventure
+  begins. A vivid Hogarthian panorama of eighteenth-century life, spiced with danger
+  and intrigue, bawdy exuberance and good-natured authorial interjections, Tom Jones
+  is one of the greatest and most ambitious comic novels in English literature."--Amazon.com.'
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Movie Books
+- Harvard Classics
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Humorous stories'
+- !lcsh 'Identity (Psychology) -- Fiction'
+- GITenberg
+title: History of Tom Jones, a Foundling
+url: http://www.gutenberg.org/ebooks/6593
