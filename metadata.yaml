@@ -1,5 +1,8 @@
 _repo: History-of-Tom-Jones-a-Foundling_6593
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fielding, Henry
@@ -22,6 +25,8 @@ description: '"A foundling of mysterious parentage brought up by Mr. Allworthy o
   begins. A vivid Hogarthian panorama of eighteenth-century life, spiced with danger
   and intrigue, bawdy exuberance and good-natured authorial interjections, Tom Jones
   is one of the greatest and most ambitious comic novels in English literature."--Amazon.com.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6593#History-of-Tom-Jones-a-Foundling
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Movie Books
