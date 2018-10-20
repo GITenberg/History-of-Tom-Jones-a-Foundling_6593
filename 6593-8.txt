@@ -1030,7 +1030,7 @@ observed, though it may seem unaccountable to the reader, that this
 guard of prudence, like the trained bands, is always readiest to go on
 duty where there is the least danger. It often basely and cowardly
 deserts those paragons for whom the men are all wishing, sighing,
-dying, and spreading, every net in their power; and constantly attends
+dying, and spreading every net in their power; and constantly attends
 at the heels of that higher order of women for whom the other sex have
 a more distant and awful respect, and whom (from despair, I suppose,
 of success) they never venture to attack.
@@ -6864,7 +6864,7 @@ on his hind legs, and threw his lovely burthen from his back, and
 Jones caught her in his arms.
 
 She was so affected with the fright, that she was not immediately able
-to satisfy Jones, who was very sollicitous to know whether she had
+to satisfy Jones, who was very solicitous to know whether she had
 received any hurt. She soon after, however, recovered her spirits,
 assured him she was safe, and thanked him for the care he had taken of
 her. Jones answered, "If I have preserved you, madam, I am
